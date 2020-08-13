@@ -1,1 +1,3 @@
-Questa  è la prima versionee del progetto
+Questa  è la prima versione del progetto.
+Gli header DIGITAL_B E DIGITAL_B2 servono per collegare lo shield a una breadboard. 
+Per questo la loro lunghezza deve essere maggiore o uguale di 17mm.

@@ -1,3 +1,10 @@
 Questa  è la prima versione del progetto.
 Gli header DIGITAL_B E DIGITAL_B2 servono per collegare lo shield a una breadboard. 
 Per questo la loro lunghezza deve essere maggiore o uguale di 17mm.
+Lo Shield contiene:
+- un LED RGB through-hole da 5mm
+- due pulsanti
+- un relè da 10A
+- un sensore di temperatura DS18B20 e due serie di piazzole per collegare sensori di temperatura DS18B20 nella versione waterproof con cavo
+- tre trimmer collegati a tre canali analogici della scheda Arduino
+- due partitori di tensione collegati a un amplificatore operazionale e collegati a due canali analogici della scheda Arduino
